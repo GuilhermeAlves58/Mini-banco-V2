@@ -3,6 +3,7 @@
 Este é um projeto desenvolvido para praticar **Programação Orientada a Objetos (POO) em Java**, inspirado em um sistema bancário simples.  
 O objetivo é consolidar conceitos como classes, objetos, encapsulamento, coleções e manipulação de arquivos.
 
+Devido a um erro git no qual não consegui resolver perdi as versões anteriores, mas o projeto está na versão completa
 ---
 
 ## Funcionalidades
